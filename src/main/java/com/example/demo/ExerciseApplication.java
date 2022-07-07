@@ -16,6 +16,7 @@ public class ExerciseApplication {
 		SpringApplication.run(ExerciseApplication.class, args);
 		System.out.println("Hello");
 		System.out.println("hi");
+		System.out.println("Hey team");
 	}
 
 }
